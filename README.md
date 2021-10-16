@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suraj191821
+- 👋 Hi, I’m Suraj sahu
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning C++
 - 📫 How to reach me ...
